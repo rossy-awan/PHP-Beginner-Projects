@@ -10,7 +10,7 @@ The repository is organized into several projects:
 
 ## Getting Started
 
-### Requirements
+### 1. Requirements
 - [PHP](https://www.php.net) (>= 8.4 recommended)
 - [Laragon](https://laragon.org) or any local server environment
 - [MySQL](https://www.mysql.com) (the project requires a database)
