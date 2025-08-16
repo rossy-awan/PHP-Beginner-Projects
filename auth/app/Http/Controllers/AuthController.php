@@ -67,7 +67,7 @@ class AuthController extends Controller
         }
 
         return back()->withErrors([
-            'error_message' => 'Email atau Password Salah',
+            'error_message' => 'Incorrect email or password',
         ])->onlyInput('error_message');
     }
 
