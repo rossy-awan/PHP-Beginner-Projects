@@ -14,7 +14,6 @@ $names = ["Ananda", "Rossy", "Kurniawan"];
 $fruits = ["Apple", "Banana", "Cherry"];
 $user = [
     "name" => $nickname,
-    "email" => "awan@outlook.com",
     "role" => "IT"
 ];
 $users = [
@@ -238,7 +237,6 @@ function getProducts()
         <section>
             <h2>Array Examples</h2>
             <p>First fruit: <?php echo $fruits[0]; ?></p>
-            <p>User email: <?php echo $user["email"]; ?></p>
             <p>Second user name: <?php echo $users[1]["name"]; ?></p>
 
             <h3>Sorted Numbers</h3>
