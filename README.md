@@ -7,6 +7,7 @@ The repository is organized into several projects:
 - `auth` – Basic authentication system (login, register, dashboard).
 - `fundamental` – Fundamental PHP examples (variables, arrays, loops, functions, etc.).
 - `notes` – Simple notes application with CRUD (Create, Read, Update, Delete) features.
+- `project-management` – Minimal project manager with projects, tasks, and key details.
 
 ## Getting Started
 
